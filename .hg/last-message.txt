@@ -1,0 +1,3 @@
+[#94616598] - Editor en Meteor basico
+ - purge o comment line for codemirror, Javascript
+ - before delete directory "test"
